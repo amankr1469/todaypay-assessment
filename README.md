@@ -1,13 +1,3 @@
-# Next.js App
-
-This app is deployed at: https://today-app-assignment-mb6g4dg13-devansh193s-projects.vercel.app/
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
-### Prerequisites
-
 Make sure you have the following installed:
 
 - [Node.js](https://nodejs.org/en/) (version 14.x or higher)
